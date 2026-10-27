@@ -1,0 +1,37 @@
+{
+  "id": "google-search",
+  "name": "Google (moteur de recherche)",
+  "category": "search_engine",
+  "priority": "crucial",
+  "established_eu": true,
+  "offers_in_eu": true,
+  "owns": [],
+  "search": {
+    "by": [
+      "name"
+    ],
+    "how": "Rechercher le nom entre guillemets, avec et sans ville, sur les 3 premières pages ; relever les URL qui exposent la personne."
+  },
+  "removal": {
+    "method": "web_form",
+    "url": "https://reportcontent.google.com/forms/rtbf",
+    "kinds": [
+      "dereferencement"
+    ],
+    "inputs": [
+      "full_name",
+      "contact_email"
+    ],
+    "requires": {
+      "id_document": false
+    },
+    "est_processing_days": 30,
+    "notes": "Formulaire « demande de suppression d'informations personnelles » (droit à l'oubli UE). Une URL par ligne, motif obligatoire. Google peut demander une pièce d'identité : la refuser sauf doute motivé, l'occulter sinon. Le déréférencement vaut pour les recherches sur le nom, la page reste en ligne."
+  },
+  "confidence": "documented",
+  "last_verified": null,
+  "sources": [
+    "https://www.cnil.fr/fr/le-droit-au-dereferencement"
+  ],
+  "verification_note": "Fiche documentée, pas encore vérifiée sur le terrain : confirmer le canal au premier usage puis renseigner last_verified."
+}

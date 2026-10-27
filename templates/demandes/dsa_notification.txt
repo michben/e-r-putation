@@ -1,0 +1,22 @@
+Objet : Notification de contenu illicite (article 16 du règlement sur les services numériques)
+
+Madame, Monsieur,
+
+En application de l'article 16 du règlement (UE) 2022/2065 sur les services numériques (DSA), je
+vous notifie la présence, sur votre service, du contenu suivant, que j'estime illicite :
+
+{listing_urls}
+
+Explication du caractère illicite :
+{motif}
+
+Je déclare de bonne foi que les informations et allégations contenues dans cette notification sont
+exactes et complètes.
+
+Coordonnées :
+{identifying_details}
+
+Je vous remercie de me notifier votre décision et ses motifs (article 17 du DSA).
+
+{full_name}
+{date}

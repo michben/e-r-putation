@@ -1,0 +1,36 @@
+{
+  "id": "rocketreach",
+  "name": "RocketReach (contacts B2B)",
+  "category": "b2b_broker",
+  "priority": "normal",
+  "established_eu": false,
+  "offers_in_eu": true,
+  "owns": [],
+  "search": {
+    "by": [
+      "name",
+      "email"
+    ]
+  },
+  "removal": {
+    "method": "web_form",
+    "url": null,
+    "email": null,
+    "kinds": [
+      "rgpd_effacement"
+    ],
+    "inputs": [
+      "full_name",
+      "contact_email"
+    ],
+    "requires": {
+      "email_verification": true
+    },
+    "est_processing_days": 30,
+    "notes": "Formulaire de retrait de profil ; URL à relever."
+  },
+  "confidence": "documented",
+  "last_verified": null,
+  "sources": [],
+  "verification_note": "Fiche documentée, pas encore vérifiée sur le terrain : confirmer le canal au premier usage puis renseigner last_verified."
+}

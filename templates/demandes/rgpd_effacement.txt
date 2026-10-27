@@ -1,0 +1,23 @@
+Objet : Demande d'effacement de mes données personnelles (articles 17 et 21 du RGPD)
+
+Madame, Monsieur,
+
+En application de l'article 21 du Règlement général sur la protection des données (RGPD), je
+m'oppose au traitement de mes données personnelles par {target_name}, et en application de
+l'article 17, je vous demande de les effacer sans délai, y compris de vos sauvegardes et des
+fichiers transmis à vos partenaires (article 19).
+
+Ces données apparaissent notamment ici :
+{listing_urls}
+
+Éléments permettant de m'identifier :
+{identifying_details}
+
+Merci de me confirmer l'effacement par écrit à l'adresse ci-dessus, dans le délai d'un mois prévu à
+l'article 12.3, et de m'indiquer la source de ces données. Ces éléments suffisent à m'identifier :
+merci de ne pas exiger de copie de pièce d'identité sauf doute raisonnable et motivé (article 12.6).
+
+Veuillez agréer, Madame, Monsieur, mes salutations distinguées.
+
+{full_name}
+{date}

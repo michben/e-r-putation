@@ -1,0 +1,18 @@
+Objet : Plainte contre {target_name} : demande RGPD restée sans suite
+
+Texte à reporter dans le formulaire de plainte en ligne de la CNIL (https://www.cnil.fr/fr/plaintes),
+avec en pièces jointes la demande initiale, la relance et toute réponse reçue.
+
+Organisme mis en cause : {target_name}
+
+Le {submitted_at}, j'ai adressé à {target_name} une demande ({initial_kind}) concernant mes données
+personnelles. Le délai de réponse expirait le {response_due_at}. Malgré une relance, je n'ai pas
+obtenu satisfaction.
+
+Données concernées :
+{listing_urls}
+
+Je vous demande d'intervenir auprès de cet organisme afin qu'il donne suite à ma demande.
+
+{full_name}
+{date}

@@ -1,0 +1,34 @@
+{
+  "id": "pappers",
+  "name": "Pappers",
+  "category": "company_registry",
+  "priority": "normal",
+  "established_eu": true,
+  "offers_in_eu": true,
+  "owns": [],
+  "search": {
+    "by": [
+      "name"
+    ]
+  },
+  "removal": {
+    "method": "email",
+    "url": null,
+    "email": null,
+    "kinds": [
+      "rgpd_opposition",
+      "dereferencement"
+    ],
+    "inputs": [
+      "full_name",
+      "contact_email"
+    ],
+    "est_processing_days": 30,
+    "notes": "Même situation que Societe.com : données publiques, viser la diffusion partielle SIRENE et la non-indexation.",
+    "requires": {}
+  },
+  "confidence": "documented",
+  "last_verified": null,
+  "sources": [],
+  "verification_note": "Fiche documentée, pas encore vérifiée sur le terrain : confirmer le canal au premier usage puis renseigner last_verified."
+}

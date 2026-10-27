@@ -1,0 +1,34 @@
+{
+  "id": "hebergeur-generique",
+  "name": "Autre site ou hébergeur (blog, forum, article)",
+  "category": "platform",
+  "priority": "normal",
+  "established_eu": false,
+  "offers_in_eu": true,
+  "owns": [],
+  "search": {
+    "by": [
+      "name"
+    ]
+  },
+  "removal": {
+    "method": "email",
+    "url": null,
+    "email": null,
+    "kinds": [
+      "rgpd_effacement",
+      "dsa_notification"
+    ],
+    "inputs": [
+      "full_name",
+      "contact_email"
+    ],
+    "est_processing_days": 30,
+    "notes": "Gabarit pour un site hors base : relever l'éditeur dans les mentions légales (obligatoires en France, LCEN art. 6 III), écrire d'abord à l'éditeur, puis à l'hébergeur. En parallèle, déréférencer l'URL sur Google et Bing. Copier cette fiche sous un nouvel id pour le site concerné.",
+    "requires": {}
+  },
+  "confidence": "documented",
+  "last_verified": null,
+  "sources": [],
+  "verification_note": "Fiche documentée, pas encore vérifiée sur le terrain : confirmer le canal au premier usage puis renseigner last_verified."
+}

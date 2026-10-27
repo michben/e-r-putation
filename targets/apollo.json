@@ -1,0 +1,35 @@
+{
+  "id": "apollo",
+  "name": "Apollo.io (contacts B2B)",
+  "category": "b2b_broker",
+  "priority": "normal",
+  "established_eu": false,
+  "offers_in_eu": true,
+  "owns": [],
+  "search": {
+    "by": [
+      "email",
+      "name"
+    ]
+  },
+  "removal": {
+    "method": "email",
+    "url": null,
+    "email": null,
+    "kinds": [
+      "rgpd_acces",
+      "rgpd_effacement"
+    ],
+    "inputs": [
+      "full_name",
+      "contact_email"
+    ],
+    "est_processing_days": 30,
+    "notes": "Demande par e-mail à l'adresse de confidentialité indiquée dans sa politique ; à relever.",
+    "requires": {}
+  },
+  "confidence": "documented",
+  "last_verified": null,
+  "sources": [],
+  "verification_note": "Fiche documentée, pas encore vérifiée sur le terrain : confirmer le canal au premier usage puis renseigner last_verified."
+}

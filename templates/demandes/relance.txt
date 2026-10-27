@@ -1,0 +1,22 @@
+Objet : Relance : demande restée sans réponse (article 12.3 du RGPD)
+
+Madame, Monsieur,
+
+Le {submitted_at}, je vous ai adressé une demande ({initial_kind}). Le délai d'un mois prévu à
+l'article 12.3 du RGPD a expiré le {response_due_at} sans réponse de votre part, ni information sur
+une éventuelle prolongation.
+
+Je vous demande d'y donner suite dans les quinze jours. À défaut, je saisirai la Commission
+nationale de l'informatique et des libertés (CNIL) d'une plainte, en application de l'article 77
+du RGPD.
+
+Pour mémoire, les données concernées apparaissent ici :
+{listing_urls}
+
+Éléments permettant de m'identifier :
+{identifying_details}
+
+Veuillez agréer, Madame, Monsieur, mes salutations distinguées.
+
+{full_name}
+{date}

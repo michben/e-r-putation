@@ -1,0 +1,37 @@
+{
+  "id": "zoominfo",
+  "name": "ZoomInfo (contacts B2B)",
+  "category": "b2b_broker",
+  "priority": "normal",
+  "established_eu": false,
+  "offers_in_eu": true,
+  "owns": [],
+  "search": {
+    "by": [
+      "email",
+      "name"
+    ]
+  },
+  "removal": {
+    "method": "web_form",
+    "url": null,
+    "email": null,
+    "kinds": [
+      "rgpd_acces",
+      "rgpd_effacement"
+    ],
+    "inputs": [
+      "full_name",
+      "contact_email"
+    ],
+    "requires": {
+      "email_verification": true
+    },
+    "est_processing_days": 30,
+    "notes": "Centre de confidentialité avec suppression de profil et vérification par e-mail ; URL à relever sur le site."
+  },
+  "confidence": "documented",
+  "last_verified": null,
+  "sources": [],
+  "verification_note": "Fiche documentée, pas encore vérifiée sur le terrain : confirmer le canal au premier usage puis renseigner last_verified."
+}

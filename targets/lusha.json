@@ -1,0 +1,37 @@
+{
+  "id": "lusha",
+  "name": "Lusha (contacts B2B)",
+  "category": "b2b_broker",
+  "priority": "high",
+  "established_eu": false,
+  "offers_in_eu": true,
+  "owns": [],
+  "search": {
+    "by": [
+      "email",
+      "phone",
+      "name"
+    ]
+  },
+  "removal": {
+    "method": "web_form",
+    "url": "https://www.lusha.com/opt-out/",
+    "kinds": [
+      "rgpd_acces",
+      "rgpd_effacement"
+    ],
+    "inputs": [
+      "full_name",
+      "contact_email"
+    ],
+    "requires": {
+      "email_verification": true
+    },
+    "est_processing_days": 30,
+    "notes": "Formulaire d'opt-out avec vérification par e-mail. Lusha alimente sa base par les carnets d'adresses de ses utilisateurs : une demande d'accès (art. 15) révèle la source."
+  },
+  "confidence": "documented",
+  "last_verified": null,
+  "sources": [],
+  "verification_note": "Fiche documentée, pas encore vérifiée sur le terrain : confirmer le canal au premier usage puis renseigner last_verified."
+}

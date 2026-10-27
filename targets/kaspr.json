@@ -1,0 +1,36 @@
+{
+  "id": "kaspr",
+  "name": "Kaspr (contacts B2B, France)",
+  "category": "b2b_broker",
+  "priority": "high",
+  "established_eu": true,
+  "offers_in_eu": true,
+  "owns": [],
+  "search": {
+    "by": [
+      "email",
+      "phone",
+      "name"
+    ]
+  },
+  "removal": {
+    "method": "email",
+    "url": null,
+    "email": null,
+    "kinds": [
+      "rgpd_acces",
+      "rgpd_effacement"
+    ],
+    "inputs": [
+      "full_name",
+      "contact_email"
+    ],
+    "est_processing_days": 30,
+    "notes": "Société française (groupe Cognism) : RGPD pleinement applicable. Adresse du DPO à relever dans sa politique de confidentialité.",
+    "requires": {}
+  },
+  "confidence": "documented",
+  "last_verified": null,
+  "sources": [],
+  "verification_note": "Fiche documentée, pas encore vérifiée sur le terrain : confirmer le canal au premier usage puis renseigner last_verified."
+}

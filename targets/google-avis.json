@@ -1,0 +1,32 @@
+{
+  "id": "google-avis",
+  "name": "Google (avis et fiches Google Business)",
+  "category": "platform",
+  "priority": "high",
+  "established_eu": true,
+  "offers_in_eu": true,
+  "owns": [],
+  "search": {
+    "by": [
+      "name"
+    ]
+  },
+  "removal": {
+    "method": "web_form",
+    "url": "https://support.google.com/legal/answer/3110420",
+    "kinds": [
+      "dsa_notification"
+    ],
+    "inputs": [
+      "full_name",
+      "contact_email"
+    ],
+    "est_processing_days": 14,
+    "notes": "Signalement juridique d'un avis ou contenu illicite (diffamation, injure, données personnelles). Un avis négatif mais licite ne sera pas retiré : on cible le contenu illicite, pas la critique.",
+    "requires": {}
+  },
+  "confidence": "documented",
+  "last_verified": null,
+  "sources": [],
+  "verification_note": "Fiche documentée, pas encore vérifiée sur le terrain : confirmer le canal au premier usage puis renseigner last_verified."
+}

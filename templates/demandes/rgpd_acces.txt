@@ -1,0 +1,27 @@
+Objet : Demande d'accès à mes données personnelles (article 15 du RGPD)
+
+Madame, Monsieur,
+
+En application de l'article 15 du Règlement général sur la protection des données (RGPD), je vous
+demande de me communiquer :
+
+  - une copie de l'ensemble des données personnelles me concernant que vous traitez ;
+  - les finalités de ces traitements et leur base légale ;
+  - les destinataires à qui ces données ont été ou seront communiquées ;
+  - leur durée de conservation ;
+  - leur source, si vous ne les avez pas collectées auprès de moi (article 14).
+
+Ces données apparaissent notamment ici :
+{listing_urls}
+
+Éléments permettant de m'identifier :
+{identifying_details}
+
+Je vous rappelle que vous disposez d'un délai d'un mois pour répondre (article 12.3). Ces éléments
+suffisent à m'identifier : merci de ne pas exiger de copie de pièce d'identité sauf doute raisonnable
+et motivé (article 12.6).
+
+Veuillez agréer, Madame, Monsieur, mes salutations distinguées.
+
+{full_name}
+{date}

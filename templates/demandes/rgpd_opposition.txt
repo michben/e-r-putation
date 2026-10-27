@@ -1,0 +1,23 @@
+Objet : Opposition à l'utilisation de mes données à des fins de prospection (article 21 du RGPD)
+
+Madame, Monsieur,
+
+En application de l'article 21.2 et 21.3 du Règlement général sur la protection des données (RGPD),
+je m'oppose à toute utilisation de mes données personnelles à des fins de prospection commerciale,
+y compris le profilage et la cession ou la location à des tiers. Ce droit est absolu et n'a pas à
+être motivé.
+
+Je vous demande en conséquence de cesser ces traitements, d'effacer mes données de vos fichiers de
+prospection (article 17.1.c) et d'en informer les destinataires à qui vous les avez transmises
+(article 19).
+
+Éléments permettant de m'identifier :
+{identifying_details}
+
+Merci de me confirmer la prise en compte de cette opposition dans le délai d'un mois prévu à
+l'article 12.3.
+
+Veuillez agréer, Madame, Monsieur, mes salutations distinguées.
+
+{full_name}
+{date}
